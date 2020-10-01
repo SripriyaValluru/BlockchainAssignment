@@ -1,0 +1,33 @@
+Test name: Create new order
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to create a new order that accepts a numerical quantity of T-Shirts.
+
+Desired outcome: I should be able to verify on the Remix IDE that my new order has been
+created and the status has been set to “New” and Quantity has been set to the number I
+supplied.
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+Test name: Display all products
+
+Test Description: It displays all the products as per product Id. 
+
+Desired outcome: It should display all the products that are added with respect to the product id in integer value
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+Test name: Order placed
+
+Test Description: Order needs to be placed after adding the products 
+
+Desired outcome: It should place an order to purchase the quantity of all the Tshirts
+Actual outcome: On testing, I validated that the actual outcome doesnot matches the desired
+outcome and it results in error. So, I removed that code inorder to overcome with an error.
+
+Result: Fail
